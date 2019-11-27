@@ -25,4 +25,4 @@ $ git clone https://github.com/jvfernandes91/machineLearningBasics.git
 1. Os arquivos de extensão .py devem ser compilados em uma IDE de sua preferência.
 2. Na IDE Spyder, vá em Abrir arquivo ou aperte ctrl+O.
 3. Localize a pasta onde está o clone do repositório.
-4. Selecione os códigos que deseja executar e pressione F5.
+4. Selecione o(s) código(s) que deseja executar e pressione F5.
