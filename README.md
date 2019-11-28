@@ -9,7 +9,7 @@ Trabalho Prático 2 da disciplina de Técnicas de Programação em 2019.2.
 ## Descrição
 Na pasta **tutorial** do repositório, se encontram os códigos em Python referentes à reprodução do tutorial do scikit-learn utilizando diferentes modelos de classificação: *Support Vector Machines, Stochastic Gradient Descent Classifier* e o *Decision Tree Classifier*. Algumas saídas desses códigos se encontram na pasta **resultados-tutorial**.
 
-Na pasta **diabetes**, se encontram os códigos em Python referentes ao aprendizado com regressão utilizando o dataset Diabetese os modelos *Linear Regression, Ridge Regression, Lasso, Bayesian Ridge Regression e o SGD Regressor*. Os gráficos de regressão se encontram na pasta **resultados-diabetes**.
+Na pasta **diabetes**, se encontram os códigos em Python referentes ao aprendizado com regressão utilizando o dataset Diabetes e os modelos *Linear Regression, Ridge Regression, Lasso, Bayesian Ridge Regression e o SGD Regressor*. Os gráficos de regressão se encontram na pasta **resultados-diabetes**.
 
 ## Clonando o repositório (No Windows)
 1. Faça o download do git: https://git-scm.com/download/win
